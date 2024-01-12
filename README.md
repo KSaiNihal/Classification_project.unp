@@ -5,6 +5,7 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 - Performed various Exploratory Data Analysis to understand the data and compare the variables.
 - Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
 - Compared the results to recommend the best Machine Learning model.
-COLAB NOTEBOOK LINK: (https://github.com/KSaiNihal/Classification_project.unp)
+  
+COLAB NOTEBOOK LINK: https://colab.research.google.com/drive/1OZ5WwxfcuF4nhdu8bVssMhQ0q4Ib_Afr
 
 PROJECT PRESENTATION LINK:https://docs.google.com/presentation/d/14nL3qZblCmlH_1ddpf110lvwr-bnCkCChNIHMxs_YWo/edit?usp=sharing
